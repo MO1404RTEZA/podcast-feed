@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>رادیو آموزش فیزیک | اپیزود ۱۶</title>
+    <link>https://www.phy20.com/ep16/</link>
+    <language>fa-ir</language>
+    <description>پادکستی برای آموزش فیزیک از فهم صفر تا شهود</description>
+    <itunes:author>رادیو آموزش فیزیک</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>در این فایل ملاک‌هایی برای ارزشیابی و تقویت دستگاه فلسفی ذهن یادگیرندگان فیزیک داده می‌شود.</itunes:summary>
+    <managingEditor>mohammadivand2009@gmail.com (Morteza Mohammadivand)</managingEditor>
+    <itunes:owner>
+      <itunes:name>Morteza Mohammadivand</itunes:name>
+      <itunes:email>mohammadivand2009@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    <item>
+      <title>اپیزود ۱۶: ارزشیابی یک دستگاه فلسفی ذهنی است</title>
+      <link>https://www.phy20.com/ep16/</link>
+      <guid>https://www.phy20.com/ep16/</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0430</pubDate>
+      <description>
+        <![CDATA[
+          در این فایل ملاک‌هایی برای ارزشیابی و تقویت دستگاه فلسفی ذهن یادگیرندگان فیزیک داده می‌شود.
+        ]]>
+      </description>
+      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/arzeshyabi-df.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:18:50</itunes:duration>
+      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    </item>
+  </channel>
+</rss>
