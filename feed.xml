@@ -120,5 +120,20 @@
       <media:thumbnail url="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
     </item>
 
+
+       <item>
+  <title>اپیزود ۱۹: دستگاه فلسفی حل مسئله شناختی</title>
+  <itunes:episode>19</itunes:episode>
+  <itunes:title>اپیزود ۱۹: دستگاه فلسفی حل مسئله شناختی</itunes:title>
+  <description>در این اپیزود با مدل شناختی حل مسئله از دیدگاه جو ردیش آشنا می‌شویم که شامل اصولی چون برساخت‌گرایی، بافت‌مندی، تغییر مفهومی، و یادگیری اجتماعی است.</description>
+  <link>https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3</link>
+  <guid>https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3</guid>
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3" length="11860000" type="audio/mpeg" />
+  <pubDate>Thu, 18 Jul 2025 20:00:00 +0330</pubDate>
+  <itunes:duration>00:19:46</itunes:duration>
+  <itunes:summary>این اپیزود نگاهی دارد به سازوکار شناختی حل مسئله از دیدگاه جو ردیش، شامل اصول ساخت‌گرایی، بافت‌مندی، و یادگیری اجتماعی در فیزیک.</itunes:summary>
+</item>
+
+
   </channel>
 </rss>
