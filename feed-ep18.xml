@@ -1,0 +1,52 @@
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>رادیو آموزش فیزیک | از فهم ۰ تا شهود</title>
+    <link>https://www.phy20.com</link>
+    <language>fa-ir</language>
+    <copyright>© 2025 Morteza Mohammadivand</copyright>
+    <managingEditor>mohammadivand2009@gmail.com</managingEditor>
+    <itunes:author>مرتضی محمدی‌وند</itunes:author>
+    <itunes:summary>پادکستی برای رشد فهم و شهود فیزیکی، ویژه‌ی معلمان و دانش‌آموزان خلاق.</itunes:summary>
+    <description>رادیو آموزش فیزیک | از فهم صفر تا شهود. بررسی مدل‌های ذهنی، ابزارهای شناختی و فلسفه‌ی آموزش فیزیک.</description>
+    <itunes:owner>
+      <itunes:name>مرتضی محمدی‌وند</itunes:name>
+      <itunes:email>mohammadivand2009@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    <image>
+      <url>https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg</url>
+      <title>رادیو آموزش فیزیک</title>
+      <link>https://www.phy20.com</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="Science"/>
+    </itunes:category>
+    <atom:link href="https://raw.githubusercontent.com/MO1404RTEZA/podcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+  <title>اپیزود ۱۹: دستگاه فلسفی حل مسأله شناختی - مدل ردیش</title>
+  <link>https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3</link>
+  <guid>https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3</guid>
+  <pubDate>Fri, 19 Jul 2025 06:00:00 GMT</pubDate>
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3" length="23760000" type="audio/mpeg" />
+  <itunes:duration>00:19:46</itunes:duration>
+  <description>در این اپیزود با مدل شناختی حل مسأله از دیدگاه جو ردیش آشنا می‌شویم. این مدل شامل اصولی مانند برساخت‌گرایی، زمینه‌مندی، تغییر، شخصیت و یادگیری اجتماعی است که ساختار ذهنی حل‌مسأله در فیزیک را ترسیم می‌کند.</description>
+  <itunes:summary>در این اپیزود با مدل شناختی حل مسأله از دیدگاه جو ردیش آشنا می‌شویم.</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+</item>
+
+
+
+
+  </channel>
+</rss>
