@@ -5,7 +5,7 @@
      xmlns:media="http://search.yahoo.com/mrss/">
 
   <channel>
-    <title>رادیو آموزش فیزیک | از فهم ۰ تا شهود</title>
+    <title>رادیو آموزش فیزیک | از فهم 0 تا شهود</title>
     <link>https://www.phy20.com</link>
     <language>fa-ir</language>
     <copyright>© 2025 Morteza Mohammadivand</copyright>
@@ -19,7 +19,7 @@
     </itunes:owner>
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
     <image>
-      <url>https://www.phy20.com/wp-content/uploads/2024/06/radio-cover-phy20-main.jpg</url>
+      <url>https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg</url>
       <title>رادیو آموزش فیزیک</title>
       <link>https://www.phy20.com</link>
     </image>
