@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>رادیو آموزش فیزیک | از فهم ۰ تا شهود</title>
+    <link>https://www.phy20.com</link>
+    <language>fa-ir</language>
+    <copyright>© 2025 Morteza Mohammadivand</copyright>
+    <managingEditor>mohammadivand2009@gmail.com</managingEditor>
+    <itunes:author>مرتضی محمدی‌وند</itunes:author>
+    <itunes:summary>پادکستی برای رشد فهم و شهود فیزیکی، ویژه‌ی معلمان و دانش‌آموزان خلاق.</itunes:summary>
+    <description>رادیو آموزش فیزیک | از فهم صفر تا شهود. بررسی مدل‌های ذهنی، ابزارهای شناختی و فلسفه‌ی آموزش فیزیک.</description>
+    <itunes:owner>
+      <itunes:name>مرتضی محمدی‌وند</itunes:name>
+      <itunes:email>mohammadivand2009@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    <image>
+      <url>https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg</url>
+      <title>رادیو آموزش فیزیک</title>
+      <link>https://www.phy20.com</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="Science"/>
+    </itunes:category>
+    <atom:link href="https://raw.githubusercontent.com/phy20/radio-education-physics/main/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- اپیزود 13 -->
+    <item>
+      <title>اپیزود ۱۳: چنددستگاهی شدن ذهن در یادگیری فیزیک</title>
+      <itunes:title>اپیزود ۱۳: چنددستگاهی شدن ذهن در یادگیری فیزیک</itunes:title>
+      <link>https://www.phy20.com/ep13/</link>
+      <guid>https://www.phy20.com/ep13/</guid>
+      <pubDate>Mon, 01 Jul 2025 00:00:00 +0330</pubDate>
+      <description><![CDATA[
+        فایل در مورد چند دستگاهی شدن ذهن یادگیرندکان فیزیک هست. در این فایل بررسی می‌شود که یک یادگیرنده فیزیک در هنگام حل مسئله چگونه ذهنش به علت چند دستگاهی شدن قادر به حل مسئله فیزیکی نیست و راهکارهایی برای برطرف کردن این مشکل ارائه خواهد شد.
+      ]]></description>
+      <itunes:summary><![CDATA[
+        در این اپیزود درباره چنددستگاهی شدن ذهن یادگیرندگان فیزیک و تأثیر آن بر ناتوانی در حل مسئله بحث می‌کنیم و راهکارهایی برای رفع آن ارائه می‌دهیم.
+      ]]></itunes:summary>
+      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/chanddastgahi.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    </item>
+
+    <!-- اپیزود 14 -->
+    <item>
+      <title>اپیزود ۱۴: دستگاه فلسفی ذهنی در یادگیری فیزیک</title>
+      <itunes:title>اپیزود ۱۴: دستگاه فلسفی ذهنی در یادگیری فیزیک</itunes:title>
+      <link>https://www.phy20.com/ep14/</link>
+      <guid>https://www.phy20.com/ep14/</guid>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0330</pubDate>
+      <description><![CDATA[
+        در این اپیزود تعریف «دستگاه فلسفی ذهنی» یادگیرندگان فیزیک بررسی می‌شود. به این پرسش پاسخ می‌دهیم که منظور از این دستگاه چیست و چه تأثیری بر درک مفاهیم فیزیک دارد.
+      ]]></description>
+      <itunes:summary><![CDATA[
+        در این اپیزود تعریف «دستگاه فلسفی ذهنی» یادگیرندگان فیزیک بررسی می‌شود و تأثیر آن بر درک مفاهیم فیزیک بیان می‌شود.
+      ]]></itunes:summary>
+      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/dastgahphys.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:16:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    </item>
+
+    <!-- اپیزود 15 -->
+    <item>
+      <title>اپیزود ۱۵: ارزیابی کیفیت دستگاه فلسفی ذهنی</title>
+      <itunes:title>اپیزود ۱۵: ارزیابی کیفیت دستگاه فلسفی ذهنی</itunes:title>
+      <link>https://www.phy20.com/ep15/</link>
+      <guid>https://www.phy20.com/ep15/</guid>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0330</pubDate>
+      <description><![CDATA[
+        در این پادکست شیوه‌هایی برای ارزیابی کیفیت دستگاه فلسفی ذهنی یادگیرندگان فیزیک آموزش داده می‌شود. این روش‌ها هنوز کامل نیستند اما راهگشا هستند و در اپیزودهای بعدی بیشتر به شناخت این ارزیابی نزدیک می‌شویم.
+      ]]></description>
+      <itunes:summary><![CDATA[
+        در این اپیزود روش‌هایی برای ارزیابی کیفیت دستگاه فلسفی ذهنی ارائه شده است. این روش‌ها راهگشا هستند و در اپیزودهای بعدی تکمیل می‌شوند.
+      ]]></itunes:summary>
+      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/sakhtane-df.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:16:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    </item>
+
+    <!-- اپیزود 16 -->
+    <item>
+      <title>اپیزود ۱۶: ارزشیابی یک دستگاه فلسفی ذهنی است</title>
+      <itunes:title>اپیزود ۱۶: ارزشیابی یک دستگاه فلسفی ذهنی است</itunes:title>
+      <link>https://www.phy20.com/ep16/</link>
+      <guid>https://www.phy20.com/ep16/</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0330</pubDate>
+      <description><![CDATA[
+        در این فایل ملاک‌هایی برای ارزشیابی و تقویت دستگاه فلسفی ذهن یادگیرندگان فیزیک داده می‌شود.
+      ]]></description>
+      <itunes:summary><![CDATA[
+        ملاک‌هایی برای ارزشیابی و تقویت دستگاه فلسفی ذهن یادگیرندگان فیزیک در این اپیزود بیان می‌شود.
+      ]]></itunes:summary>
+      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/arzeshyabi-df.mp3" length="12345678" type="audio/mpeg"/>
+      <itunes:duration>00:18:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+    </item>
+
+    <!-- اپیزود 17 -->
+    <item>
+      <title>اپیزود ۱۷ - ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک</title>
+      <itunes:title>اپیزود ۱۷ - ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک</itunes:title>
+      <link>https://www.phy20.com/ep17/</link>
+      <guid isPermaLink="false">phy20-episode17-2025</guid>
+      <pubDate>Thu, 18 Jul 2025 09:00:00 +0330</pubDate>
+      <description><![CDATA[
+        در این اپیزود بررسی می‌کنیم که ذهن چگونه ابزارسازی می‌کند و ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک چیستند.
+      ]]></description>
+      <itunes:summary><![CDATA[
+        بررسی ابزارسازی ذهنی یادگیرندگان فیزیک: ابزارهای دم‌دستی، مدل‌سازی شناختی، و نقش ذهن در ساخت سازوکارهای کمک‌آموزشی.
+      ]]></itunes:summary>
+      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/abzared
