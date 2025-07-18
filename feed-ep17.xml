@@ -26,21 +26,21 @@
     <itunes:category text="Education">
       <itunes:category text="Science"/>
     </itunes:category>
-    <atom:link href="https://raw.githubusercontent.com/your-username/your-repo-name/main/episode17.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/phy20/radio-education-physics/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>اپیزود ۱۷ - ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک</title>
       <itunes:title>اپیزود ۱۷ - ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک</itunes:title>
       <link>https://www.phy20.com/wp-content/uploads/2025/03/abzaredamdasti.mp3</link>
-      <guid>https://www.phy20.com/wp-content/uploads/2025/03/abzaredamdasti.mp3</guid>
+      <guid isPermaLink="false">phy20-episode17-2025</guid>
       <pubDate>Thu, 18 Jul 2025 09:00:00 +0330</pubDate>
-      <description>در این اپیزود بررسی می‌کنیم که ذهن چگونه ابزارسازی می‌کند و ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک چیستند.</description>
-      <itunes:summary>بررسی ابزارسازی ذهنی یادگیرندگان فیزیک: ابزارهای دم‌دستی، مدل‌سازی شناختی، و نقش ذهن در ساخت سازوکارهای کمک‌آموزشی.</itunes:summary>
+      <description><![CDATA[در این اپیزود بررسی می‌کنیم که ذهن چگونه ابزارسازی می‌کند و ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک چیستند.]]></description>
+      <itunes:summary><![CDATA[بررسی ابزارسازی ذهنی یادگیرندگان فیزیک: ابزارهای دم‌دستی، مدل‌سازی شناختی، و نقش ذهن در ساخت سازوکارهای کمک‌آموزشی.]]></itunes:summary>
       <itunes:duration>16:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/abzaredamdasti.mp3" length="15400000" type="audio/mpeg"/>
-      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/cover-ep17.jpg"/>
-      <media:thumbnail url="https://www.phy20.com/wp-content/uploads/2025/03/cover-ep17.jpg"/>
+      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+      <media:thumbnail url="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
     </item>
   </channel>
 </rss>
