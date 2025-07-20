@@ -29,19 +29,33 @@
     <atom:link href="https://raw.githubusercontent.com/MO1404RTEZA/podcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>اپیزود ۱۳: چنددستگاهی شدن ذهن در یادگیری فیزیک</title>
-      <itunes:title>اپیزود ۱۳: چنددستگاهی شدن ذهن در یادگیری فیزیک</itunes:title>
-      <link>https://www.phy20.com/ep13/</link>
-      <guid>https://www.phy20.com/ep13/</guid>
-      <pubDate>Mon, 01 Jul 2025 00:00:00 +0330</pubDate>
-      <description><![CDATA[
-        فایل در مورد چند دستگاهی شدن ذهن یادگیرندکان فیزیک هست. در این فایل بررسی می‌شود که یک یادگیرنده فیزیک در هنگام حل مسئله چگونه ذهنش به علت چند دستگاهی شدن قادر به حل مسئله فیزیکی نیست و راهکارهایی برای برطرف کردن این مشکل ارائه خواهد شد.
-      ]]></description>
-      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/chanddastgahi.mp3" length="12345678" type="audio/mpeg"/>
-      <itunes:duration>00:10:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
-    </item>
+  <title>اپیزود ۱۳: چنددستگاهی شدن ذهن در یادگیری فیزیک</title>
+  <itunes:title>اپیزود ۱۳: چنددستگاهی شدن ذهن در یادگیری فیزیک</itunes:title>
+  <link>https://www.phy20.com/ep13/</link>
+  <guid>https://www.phy20.com/ep13/</guid>
+  <pubDate>Mon, 01 Jul 2025 00:00:00 +0330</pubDate>
+  <description><![CDATA[
+    <p>فایل در مورد چند دستگاهی شدن ذهن یادگیرندگان فیزیک است. بررسی می‌شود که یک یادگیرنده فیزیک در هنگام حل مسئله چگونه ذهنش به علت چند دستگاهی شدن قادر به حل مسئله فیزیکی نیست و راهکارهایی برای برطرف کردن این مشکل ارائه خواهد شد.</p>
+    <h4>🔎 ۱۰ پرسش کلیدی این اپیزود:</h4>
+    <ol>
+      <li>دستگاه فلسفی در یادگیری فیزیک به چه معناست و چرا این اصطلاح به‌جای «نگرش» یا «جهان‌بینی» به‌کار رفته است؟</li>
+      <li>چرا برخی یادگیرندگان، فیزیک را یک پدیده اتفاقی می‌دانند؟ این نگرش چه پیامدهایی دارد؟</li>
+      <li>سه نشانه از یک دستگاه فلسفی ناقص در ذهن دانش‌آموز فیزیک را نام ببرید.</li>
+      <li>تفاوت دستگاه فلسفی بسته و باز در ذهن یادگیرنده فیزیک چیست؟</li>
+      <li>آیا دستگاه فلسفی قابل آموزش است یا ذاتی است؟ اپیزود چه نظری دارد؟</li>
+      <li>بازسازی دستگاه فلسفی در کلاس فیزیک به چه معناست و چه نقشی دارد؟</li>
+      <li>دلیل اصلی شکست در حل مسائل مفهومی فیزیک از نگاه اپیزود چیست؟</li>
+      <li>رابطه بین فلسفه ذهنی و ابزارسازی ذهن چیست؟</li>
+      <li>نمونه‌هایی از گسست‌های فلسفی ذهنی دانش‌آموزان چیست و چه تأثیری دارند؟</li>
+      <li>یکی از تمثیل‌های استفاده‌شده برای فهم دستگاه فلسفی را ذکر کرده و کاربردش را توضیح دهید.</li>
+    </ol>
+  ]]></description>
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/chanddastgahi.mp3" length="12345678" type="audio/mpeg"/>
+  <itunes:duration>00:10:00</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
+</item>
+
 
     <item>
       <title>اپیزود ۱۴: دستگاه فلسفی ذهنی در یادگیری فیزیک</title>
