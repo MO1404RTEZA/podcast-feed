@@ -6,7 +6,7 @@
 
   <channel>
     <title>رادیو آموزش فیزیک | از فهم ۰ تا شهود</title>
-    <link>https://www.phy20.com</link>
+    <link>https://www.phy20.com/category/radio-physics-education/</link>
     <language>fa-ir</language>
     <copyright>© 2025 Morteza Mohammadivand</copyright>
     <managingEditor>mohammadivand2009@gmail.com</managingEditor>
@@ -21,12 +21,13 @@
     <image>
       <url>https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg</url>
       <title>رادیو آموزش فیزیک</title>
-      <link>https://www.phy20.com</link>
+      <link>https://www.phy20.com/category/radio-physics-education/</link>
     </image>
     <itunes:category text="Education">
       <itunes:category text="Science"/>
     </itunes:category>
     <atom:link href="https://raw.githubusercontent.com/MO1404RTEZA/podcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
+
 
    <item>
   <title>اپیزود ۱۳: چنددستگاهی شدن ذهن در یادگیری فیزیک</title>
