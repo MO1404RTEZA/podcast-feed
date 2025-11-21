@@ -16,6 +16,10 @@
     <itunes:category text="Science">
     <itunes:category text="Physics"/>
 </itunes:category>
+<itunes:category text="Education">
+    <itunes:category text="Courses"/>
+</itunes:category>
+
 
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
 
@@ -149,5 +153,6 @@
 
 </channel>
 </rss>
+
 
 
