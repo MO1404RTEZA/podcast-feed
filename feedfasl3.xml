@@ -100,5 +100,41 @@
     <itunes:explicit>no</itunes:explicit>
   </item>
 
+     <!-- 5 اپیزود -->
+     <item>
+<title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه | مهارت به کارگیری عدد در ساینس</title>
+<link>https://www.phy20.com/episode1/</link>
+<guid>https://www.phy20.com/episode1/</guid>
+<pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+<description><![CDATA[
+فیثاغورسیان معتقد بودند جهان از عدد درست شده است. امروزه بدون داشتن درک عددی نمی‌توانیم چیزی را توصیف کنیم. کلیه اندازه‌گیری‌ها در فیزیک با اعداد انجام می‌شود و یادگیرنده فیزیک باید مهارت کار و تشخیص اعداد و مرتبه بزرگی و کوچکی آنها را بلد باشد و به کار ببرد.
+]]></description>
+<enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD4.mp3" length="19941591" type="audio/mpeg"/>
+<itunes:duration>00:18:23</itunes:duration>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg"/>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+     <!-- 6 اپیزود -->
+     <item>
+<title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه | مهارت اندازه‌گیری در ساینس</title>
+<link>https://www.phy20.com/episode1/</link>
+<guid>https://www.phy20.com/episode1/</guid>
+<pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+<description><![CDATA[
+به یقین فیزیک با تحولی که در درک مفهوم اندازه‌گیری ایجاد کرد باعث شد نگاه ما به درک مهارت اندازه‌گیری بیش از پیش باشد. بدون اندازه‌گیری هیچ چیزی ساخته نخواهد شد.
+]]></description>
+<enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD5.mp3" length="22722040" type="audio/mpeg"/>
+<itunes:duration>00:20:39</itunes:duration>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg"/>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
+
