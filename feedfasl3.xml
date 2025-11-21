@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+  <title>رادیو آموزش فیزیک | از فهم 0 تا شهود</title>
+  <link>https://www.phy20.com</link>
+  <description>پادکست آموزش فیزیک از صفر تا درک شهودی مفاهیم.</description>
+  <language>fa-ir</language>
+  <managingEditor>mohammadivand2009@gmail.com</managingEditor>
+  <itunes:author>مرتضی محمدی وند خوشخو</itunes:author>
+  <itunes:owner>
+    <itunes:name>مرتضی محمدی وند خوشخو</itunes:name>
+    <itunes:email>mohammadivand2009@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+
+  <!-- فایل صفر فصل 3 -->
+  <item>
+    <title>معرفی فصل 3</title>
+    <link>https://www.phy20.com/episode0/</link>
+    <guid isPermaLink="true">https://www.phy20.com/episode0/</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+در این فصل به الگوهای مهارتی یادگیرندگان فیزیک پرداخته‌ایم.
+یک یادگیرنده فیزیک یا ساینس باید این چیزها در طول دوران یادگیری فیزیک و ساینس یاد بگیرد و بفهمد.
+این الگوها 3 قسمت هستند: الگوهای پایه، درهم تنیده و برشناختی.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD0.mp3" length="7313629" type="audio/mpeg" />
+    <itunes:duration>00:06:12</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <!-- اپیزود 1 -->
+  <item>
+    <title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه  | مهارت مشاهده کردن در ساینس</title>
+    <link>https://www.phy20.com/episode1/</link>
+    <guid isPermaLink="true">https://www.phy20.com/episode1/</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+مشاهده در ساینس و فیزیک به معنای استفاده از تمام ظرفیت وجودی اجسام و پدیده‌هاست. مشاهده ذاتاً نظریه‌بار است.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD1-1.mp3" length="23361674" type="audio/mpeg" />
+    <itunes:duration>00:19:10</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <!-- اپیزود 2 -->
+  <item>
+    <title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه  | مهارت طبقه بندی در ساینس</title>
+    <link>https://www.phy20.com/episode2/</link>
+    <guid isPermaLink="true">https://www.phy20.com/episode2/</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+این مهارت جزو مهم‌ترین رفتارهای یک فیزیکدان یا ساینتیست است. با این مهارت بخش زیادی از درک اولیه مشاهده کردن نظم پیدا می‌کند.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD2.mp3" length="20798270" type="audio/mpeg" />
+    <itunes:duration>00:18:29</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <!-- اپیزود 3 -->
+  <item>
+    <title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه  | مهارت درک رابطه فضا زمانی</title>
+    <link>https://www.phy20.com/episode3/</link>
+    <guid isPermaLink="true">https://www.phy20.com/episode3/</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+بخش زیادی از مفاهیم فیزیک به مکان، زمان، سرعت، شتاب و سایر کمیت‌های مبتنی بر آن‌ها استوار است. یکی از مهارت‌های یادگیری فیزیک، درک نوع ارتباط یک مفهوم با فضا و زمان و روابط آن‌هاست.  
+توجه: این مهارت ۲ پادکست دارد.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD3-1.mp3" length="16851168" type="audio/mpeg" />
+    <itunes:duration>00:15:56</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <!-- اپیزود 4 -->
+  <item>
+    <title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه  | مهارت 2 درک رابطه فضا زمانی</title>
+    <link>https://www.phy20.com/episode4/</link>
+    <guid isPermaLink="true">https://www.phy20.com/episode4/</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+در ادامه به این درک می‌رسیم که بسیاری از کمیت‌های فیزیک وابسته به تحلیل دقیق زمان و مکان هستند ولی وقتی به پدیده‌های اتمی می‌رسیم این تحلیل‌ها جنبه عدم قطعیت می‌گیرند.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD3-2.mp3" length="17760196" type="audio/mpeg" />
+    <itunes:duration>00:16:55</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+</channel>
+</rss>
