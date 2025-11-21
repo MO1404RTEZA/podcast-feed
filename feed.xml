@@ -13,6 +13,9 @@
     <itunes:email>info@phy20.com</itunes:email>
   </itunes:owner>
   <itunes:explicit>no</itunes:explicit>
+     <itunes:category text="Education">
+  <itunes:category text="Science"/>
+</itunes:category>
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
 
   <!-- اپیزود 13 -->
@@ -145,3 +148,4 @@
 
 </channel>
 </rss>
+
