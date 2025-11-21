@@ -134,7 +134,78 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+     <!-- 7 اپیزود -->
+     <item>
+<title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه | مهارت استنباط در ساینس</title>
+<link>https://www.phy20.com/episode1/</link>
+<guid>https://www.phy20.com/episode1/</guid>
+<pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+<description><![CDATA[
+در ساینس همواره با مساله استنباط مواجه هستیم. حجم زیادی از اطلاعات را باید تفسیر و تعبیر کنیم. در نقطه مقابل باید تعلیق قضاوت کنیم تا اطلاعات تکمیلی بیشتری به دست بیاوریم.
+]]></description>
+<enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD6.mp3" length="16316696" type="audio/mpeg"/>
+<itunes:duration>00:14:10</itunes:duration>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg"/>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+     <!-- 8 اپیزود -->
+     <item>
+<title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی پایه | مهارت پیش‌بینی در ساینس</title>
+<link>https://www.phy20.com/episode1/</link>
+<guid>https://www.phy20.com/episode1/</guid>
+<pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+<description><![CDATA[
+هر آنچه که علم ساینس می‌گوید مبتنی بر اصل دترمینیسم است. یعنی چگونه با کمک گذشته سیستم، رفتار آینده آن را تعیین کنیم.
+]]></description>
+<enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD7.mp3" length="21330815" type="audio/mpeg"/>
+<itunes:duration>00:19:09</itunes:duration>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg"/>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+     <!-- 9اپیزود -->
+     <item>
+<title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی درهم‌تنیده | تعریف عملیاتی</title>
+<link>https://www.phy20.com/episode1/</link>
+<guid>https://www.phy20.com/episode1/</guid>
+<pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+<description><![CDATA[
+مهارت‌های درهم‌تنیده یا تلفیقی از چندین مهارت استفاده می‌کنند.
+]]></description>
+<enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD8.mp3" length="14322370" type="audio/mpeg"/>
+<itunes:duration>00:13:40</itunes:duration>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg"/>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+     <!--10 اپیزود -->
+     <item>
+<title>فصل سوم رادیو آموزش فیزیک: الگوهای مهارتی درهم‌تنیده | مدل‌ها</title>
+<link>https://www.phy20.com/episode1/</link>
+<guid>https://www.phy20.com/episode1/</guid>
+<pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+<description><![CDATA[
+ساختن مدل‌ها در فیزیک و ساینس اهمیت زیادی دارد. بسیاری مواقع نمی‌توانیم خود سیستم را مطالعه کنیم. یک مدل کمک می‌کند بخش‌های سیستم را ساده کنیم و راحت‌تر تغییر دهیم. داشتن توانایی مدل‌سازی به یک سطح پیشرفته تفکر نیاز دارد.
+]]></description>
+<enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD9.mp3" length="16242863" type="audio/mpeg"/>
+<itunes:duration>00:15:25</itunes:duration>
+<itunes:season>3</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg"/>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
+
 
 </channel>
 </rss>
+
 
