@@ -169,5 +169,39 @@
     <itunes:summary>این اپیزود نگاهی دارد به سازوکار شناختی حل مسئله از دیدگاه جو ردیش.</itunes:summary>
   </item>
 
+
+     <!--فصل سوم -->
+     <item>
+    <title>معرفی فصل 3</title>
+    <link>https://www.phy20.com/episode0/</link>
+    <guid isPermaLink="false">EP3-0</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+در این فصل به الگوهای مهارتی یادگیرندگان فیزیک پرداخته‌ایم.
+این الگوها 3 قسمت هستند: الگوهای پایه، درهم تنیده و برشناختی.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD0.mp3" length="7313629" type="audio/mpeg" />
+    <itunes:duration>00:06:12</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <title>الگوهای مهارتی پایه | مهارت مشاهده کردن در ساینس</title>
+    <link>https://www.phy20.com/episode1/</link>
+    <guid isPermaLink="false">EP3-1</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+مشاهده در ساینس و فیزیک به معنای استفاده از تمام ظرفیت وجودی اجسام و پدیده‌هاست. مشاهده ذاتاً نظریه‌بار است.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD1-1.mp3" length="23361674" type="audio/mpeg" />
+    <itunes:duration>00:19:10</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
+
