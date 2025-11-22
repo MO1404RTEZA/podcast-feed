@@ -2,26 +2,38 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:media="http://search.yahoo.com/mrss/">
+
 <channel>
+
   <title>رادیو آموزش فیزیک | از فهم 0 تا شهود</title>
   <link>https://www.phy20.com</link>
   <description>پادکست آموزشی فیزیک از مرتضی محمدی‌وند خوشخو</description>
   <language>fa-ir</language>
+  <lastBuildDate>Sat, 22 Nov 2025 20:00:00 +0330</lastBuildDate>
+  <copyright>© 2025 رادیو آموزش فیزیک</copyright>
+
   <itunes:author>مرتضی محمدی‌وند خوشخو</itunes:author>
+  <itunes:summary>رادیو آموزش فیزیک؛ پادکست آموزشی برای درک شهودی قوانین و مفاهیم فیزیک</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+
+  <managingEditor>info@phy20.com (Morteza Mohammadivand)</managingEditor>
+
   <itunes:owner>
     <itunes:name>مرتضی محمدی‌وند خوشخو</itunes:name>
     <itunes:email>info@phy20.com</itunes:email>
   </itunes:owner>
-  <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Science">
-    <itunes:category text="Physics"/>
-</itunes:category>
-<itunes:category text="Education">
-    <itunes:category text="Courses"/>
-</itunes:category>
 
+  <itunes:explicit>no</itunes:explicit>
+
+  <itunes:category text="Science">
+    <itunes:category text="Physics"/>
+  </itunes:category>
+  <itunes:category text="Education">
+    <itunes:category text="Courses"/>
+  </itunes:category>
 
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+
 
   <!-- اپیزود 13 -->
   <item>
@@ -31,7 +43,7 @@
     <guid>https://www.phy20.com/ep13/</guid>
     <pubDate>Mon, 07 Jul 2025 00:00:00 +0430</pubDate>
     <description><![CDATA[
-      <div style="direction: rtl; text-align: right; font-family: Tahoma, Arial, sans-serif; line-height: 1.6;">
+      <div style="direction: rtl; text-align: right; line-height: 1.6;">
         <p>در این اپیزود درباره فلسفه یادگیری فیزیک و اهمیت دستگاه ذهنی یادگیرنده صحبت می‌کنیم.</p>
       </div>
     ]]></description>
@@ -41,6 +53,7 @@
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
   </item>
 
+
   <!-- اپیزود ۱۴ -->
   <item>
     <title>اپیزود ۱۴: دستگاه فلسفی ذهنی در یادگیری فیزیک</title>
@@ -49,7 +62,7 @@
     <guid>https://www.phy20.com/ep14/</guid>
     <pubDate>Tue, 15 Jul 2025 00:00:00 +0330</pubDate>
     <description><![CDATA[
-      <div style="direction: rtl; text-align: right; font-family: Tahoma, Arial, sans-serif; line-height: 1.6;">
+      <div style="direction: rtl; text-align: right; line-height: 1.6;">
         <p>در این اپیزود تعریف «دستگاه فلسفی ذهنی» یادگیرندگان فیزیک بررسی می‌شود.</p>
       </div>
     ]]></description>
@@ -59,6 +72,7 @@
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
   </item>
 
+
   <!-- اپیزود ۱۵ -->
   <item>
     <title>اپیزود ۱۵: ارزیابی کیفیت دستگاه فلسفی ذهنی</title>
@@ -67,7 +81,7 @@
     <guid>https://www.phy20.com/ep15/</guid>
     <pubDate>Tue, 22 Jul 2025 00:00:00 +0330</pubDate>
     <description><![CDATA[
-      <div style="direction: rtl; text-align: right; font-family: Tahoma, Arial, sans-serif; line-height: 1.6;">
+      <div style="direction: rtl; text-align: right; line-height: 1.6;">
         <p>در این پادکست شیوه‌هایی برای ارزیابی کیفیت دستگاه فلسفی ذهنی یادگیرندگان فیزیک آموزش داده می‌شود.</p>
       </div>
     ]]></description>
@@ -77,6 +91,7 @@
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
   </item>
 
+
   <!-- اپیزود ۱۶ -->
   <item>
     <title>اپیزود ۱۶: ارزشیابی یک دستگاه فلسفی ذهنی است</title>
@@ -85,7 +100,7 @@
     <guid>https://www.phy20.com/ep16/</guid>
     <pubDate>Thu, 17 Jul 2025 00:00:00 +0430</pubDate>
     <description><![CDATA[
-      <div style="direction: rtl; text-align: right; font-family: Tahoma, Arial, sans-serif; line-height: 1.6;">
+      <div style="direction: rtl; text-align: right; line-height: 1.6;">
         <p>در این فایل ملاک‌هایی برای ارزشیابی و تقویت دستگاه فلسفی ذهن یادگیرندگان فیزیک داده می‌شود.</p>
       </div>
     ]]></description>
@@ -95,15 +110,16 @@
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
   </item>
 
+
   <!-- اپیزود ۱۷ -->
   <item>
     <title>اپیزود ۱۷ - ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک</title>
     <itunes:title>اپیزود ۱۷ - ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک</itunes:title>
-    <link>https://www.phy20.com/wp-content/uploads/2025/03/abzaredamdasti.mp3</link>
+    <link>https://www.phy20.com/ep17/</link>
     <guid isPermaLink="false">phy20-episode17-2025</guid>
     <pubDate>Thu, 18 Jul 2025 09:00:00 +0330</pubDate>
     <description><![CDATA[
-      <div style="direction: rtl; text-align: right; font-family: Tahoma, Arial, sans-serif; line-height: 1.6;">
+      <div style="direction: rtl; text-align: right; line-height: 1.6;">
         <p>در این اپیزود بررسی می‌کنیم که ذهن چگونه ابزارسازی می‌کند و ابزارهای دم‌دستی ذهنی یادگیرندگان فیزیک چیستند.</p>
       </div>
     ]]></description>
@@ -113,15 +129,16 @@
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
   </item>
 
+
   <!-- اپیزود ۱۸ -->
   <item>
     <title>اپیزود ۱۸ - دستگاه فلسفی خنثی سازی</title>
     <itunes:title>اپیزود ۱۸ - دستگاه فلسفی خنثی سازی</itunes:title>
-    <link>https://www.phy20.com/wp-content/uploads/2025/03/khonsasazi.mp3</link>
+    <link>https://www.phy20.com/ep18/</link>
     <guid isPermaLink="false">phy20-episode18-2025</guid>
     <pubDate>Fri, 25 Jul 2025 09:00:00 +0330</pubDate>
     <description><![CDATA[
-      <div style="direction: rtl; text-align: right; font-family: Tahoma, Arial, sans-serif; line-height: 1.6;">
+      <div style="direction: rtl; text-align: right; line-height: 1.6;">
         <p>در این اپیزود متوجه می‌شوید که ذهن یادگیرندگان برای به تعادل رسیدن یک چالش مدام خنثی سازی می‌کند و گاه گول می‌خورد.</p>
       </div>
     ]]></description>
@@ -131,28 +148,26 @@
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
   </item>
 
+
   <!-- اپیزود ۱۹ -->
   <item>
     <title>اپیزود ۱۹: دستگاه فلسفی حل مسئله شناختی</title>
     <itunes:episode>19</itunes:episode>
     <itunes:title>اپیزود ۱۹: دستگاه فلسفی حل مسئله شناختی</itunes:title>
-    <link>https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3</link>
+    <link>https://www.phy20.com/ep19/</link>
     <guid>https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3</guid>
     <pubDate>Thu, 18 Jul 2025 20:00:00 +0330</pubDate>
     <description><![CDATA[
-      <div style="direction: rtl; text-align: right; font-family: Tahoma, Arial, sans-serif; line-height: 1.6;">
-        <p>در این اپیزود با مدل شناختی حل مسئله از دیدگاه جو ردیش آشنا می‌شویم که شامل اصولی چون برساخت‌گرایی، بافت‌مندی، تغییر مفهومی، و یادگیری اجتماعی است.</p>
+      <div style="direction: rtl; text-align: right; line-height: 1.6;">
+        <p>در این اپیزود با مدل شناختی حل مسئله از دیدگاه جو ردیش آشنا می‌شویم.</p>
       </div>
     ]]></description>
     <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/osoleredish_tagged.mp3" length="11860000" type="audio/mpeg" />
     <itunes:duration>00:19:46</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg" />
-    <itunes:summary>این اپیزود نگاهی دارد به سازوکار شناختی حل مسئله از دیدگاه جو ردیش، شامل اصول ساخت‌گرایی، بافت‌مندی، و یادگیری اجتماعی در فیزیک.</itunes:summary>
+    <itunes:summary>این اپیزود نگاهی دارد به سازوکار شناختی حل مسئله از دیدگاه جو ردیش.</itunes:summary>
   </item>
 
 </channel>
 </rss>
-
-
-
