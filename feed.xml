@@ -185,6 +185,8 @@
     <itunes:season>3</itunes:season>
     <itunes:episode>0</itunes:episode>
     <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+
   </item>
 
   <item>
@@ -200,8 +202,11 @@
     <itunes:season>3</itunes:season>
     <itunes:episode>1</itunes:episode>
     <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+
   </item>
 
 </channel>
 </rss>
+
 
