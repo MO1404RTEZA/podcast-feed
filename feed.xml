@@ -222,8 +222,41 @@
              <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
 
+      <item>
+    <title>الگوهای مهارتی پایه | مهارت درک رابطه فضا زمانی 1</title>
+    <link>https://www.phy20.com/episode3/</link>
+    <guid isPermaLink="false">EP3-3</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+بخش زیادی از مفاهیم فیزیک به مکان، زمان، سرعت، شتاب و سایر کمیت‌های مبتنی بر آن‌ها استوار است. یکی از مهارت‌های یادگیری فیزیک، درک نوع ارتباط یک مفهوم با فضا و زمان و روابط آن‌هاست.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD3-1.mp3" length="16851168" type="audio/mpeg" />
+    <itunes:duration>00:15:56</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
+  <item>
+    <title>الگوهای مهارتی پایه | مهارت درک رابطه فضا زمانی 2</title>
+    <link>https://www.phy20.com/episode4/</link>
+    <guid isPermaLink="false">EP3-4</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:06 GMT</pubDate>
+    <description><![CDATA[
+در ادامه به این درک می‌رسیم که بسیاری از کمیت‌های فیزیک وابسته به تحلیل دقیق زمان و مکان هستند ولی وقتی به پدیده‌های اتمی می‌رسیم این تحلیل‌ها جنبه عدم قطعیت می‌گیرند.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD3-2.mp3" length="17760196" type="audio/mpeg" />
+    <itunes:duration>00:16:55</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
 </channel>
 </rss>
+
 
 
 
