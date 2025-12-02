@@ -254,8 +254,26 @@
         <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
 
+      <item>
+    <title>الگوهای مهارتی پایه | مهارت به کارگیری عدد در ساینس</title>
+    <link>https://www.phy20.com/episode5/</link>
+    <guid isPermaLink="false">EP3-5</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+امروزه بدون داشتن درک عددی نمی‌توان چیزی را توصیف کرد. کلیه اندازه‌گیری‌ها در فیزیک با اعداد انجام می‌شود و یادگیرنده فیزیک باید مهارت کار و تشخیص اعداد و مرتبه بزرگی آنها را بلد باشد و به کار ببرد.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD4.mp3" length="19941591" type="audio/mpeg"/>
+    <itunes:duration>00:18:23</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+           <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
+
 </channel>
 </rss>
+
 
 
 
