@@ -269,10 +269,58 @@
     <itunes:explicit>no</itunes:explicit>
            <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
+      <item>
+    <title>الگوهای مهارتی پایه | مهارت اندازه‌گیری در ساینس</title>
+    <link>https://www.phy20.com/episode6/</link>
+    <guid isPermaLink="false">EP3-6</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+به یقین فیزیک با تحولی که در درک مفهوم اندازه‌گیری ایجاد کرد باعث شد نگاه ما به درک مهارت اندازه‌گیری بیش از پیش باشد. بدون اندازه‌گیری هیچ چیزی ساخته نخواهد شد.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD5.mp3" length="22722040" type="audio/mpeg"/>
+    <itunes:duration>00:20:39</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+           <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
+  <item>
+    <title>الگوهای مهارتی پایه | مهارت استنباط در ساینس</title>
+    <link>https://www.phy20.com/episode7/</link>
+    <guid isPermaLink="false">EP3-7</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+در ساینس همواره با مساله استنباط مواجه هستیم. حجم زیادی از اطلاعات را باید تفسیر و تعبیر کنیم. در نقطه مقابل باید تعلیق قضاوت کنیم تا اطلاعات تکمیلی بیشتری به دست بیاوریم.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD6.mp3" length="16316696" type="audio/mpeg"/>
+    <itunes:duration>00:14:10</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
+  <item>
+    <title>الگوهای مهارتی پایه | مهارت پیش‌بینی در ساینس</title>
+    <link>https://www.phy20.com/episode8/</link>
+    <guid isPermaLink="false">EP3-8</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+هر آنچه که علم ساینس می‌گوید مبتنی بر اصل دترمینیسم است. یعنی چگونه با کمک گذشته سیستم، رفتار آینده آن را تعیین کنیم.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD7.mp3" length="21330815" type="audio/mpeg"/>
+    <itunes:duration>00:19:09</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
 
 
 </channel>
 </rss>
+
 
 
 
