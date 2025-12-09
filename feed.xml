@@ -317,9 +317,42 @@
        <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
 
+     <item>
+    <title>الگوهای مهارتی درهم‌تنیده | تعریف عملیاتی</title>
+    <link>https://www.phy20.com/episode9/</link>
+    <guid isPermaLink="false">EP3-9</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+مهارت‌های درهم‌تنیده یا تلفیقی از چندین مهارت استفاده می‌کنند.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD8.mp3" length="14322370" type="audio/mpeg"/>
+    <itunes:duration>00:13:40</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
+  <item>
+    <title>الگوهای مهارتی درهم‌تنیده | مدل‌ها</title>
+    <link>https://www.phy20.com/episode10/</link>
+    <guid isPermaLink="false">EP3-10</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+ساختن مدل‌ها در فیزیک و ساینس اهمیت زیادی دارد. بسیاری مواقع نمی‌توانیم خود سیستم را مطالعه کنیم. یک مدل کمک می‌کند بخش‌های سیستم را ساده کنیم و راحت‌تر تغییر دهیم.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD9.mp3" length="16242863" type="audio/mpeg"/>
+    <itunes:duration>00:15:25</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
 
 </channel>
 </rss>
+
 
 
 
