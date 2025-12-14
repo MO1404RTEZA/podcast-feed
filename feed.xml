@@ -413,9 +413,43 @@
        <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
 
+     <item>
+    <title>الگوهای مهارتی درهم‌تنیده | کنترل متغیرها</title>
+    <link>https://www.phy20.com/episode11/</link>
+    <guid isPermaLink="false">EP3-11</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+در هر آزمایشی طبیعت و اجسام مسیر خودشان را می‌روند. ایجاد یک دیسیپلین برای کنترل متغیرها به ما کمک می‌کند تا اثرات عوامل اصلی را در متغیر هدف شناسایی کنیم و به انحراف نرویم.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD10.mp3" length="16531924" type="audio/mpeg"/>
+    <itunes:duration>00:14:42</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
+  <item>
+    <title>الگوهای مهارتی درهم‌تنیده | تفسیر داده‌ها</title>
+    <link>https://www.phy20.com/episode12/</link>
+    <guid isPermaLink="false">EP3-12</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:07 GMT</pubDate>
+    <description><![CDATA[
+بدون داشتن درک و اصول کلی نمی‌توان داده‌های یک آزمایش را تفسیر کرد.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD11.mp3" length="14906245" type="audio/mpeg"/>
+    <itunes:duration>00:13:32</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />                                                 
+  </item>
+
+
 
 </channel>
 </rss>
+
 
 
 
