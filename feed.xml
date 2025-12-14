@@ -33,71 +33,101 @@
   </itunes:category>
 
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
-<!-- 1 اپیزود -->
      <!-- اپیزود 1 -->
 <item>
-  <title>اپیزود 1: شناخت ساختار مغز انسان</title>
-  <itunes:title>اپیزود 1: شناخت ساختار مغز انسان</itunes:title>
-  <link>https://www.phy20.com/wp-content/uploads/2025/12/MAGHZ1.mp3</link>
-  <guid>https://www.phy20.com/wp-content/uploads/2025/12/MAGHZ1.mp3</guid>
+  <title>اپیزود ۱: شناخت ساختار مغز انسان</title>
+  <itunes:title>اپیزود ۱: شناخت ساختار مغز انسان</itunes:title>
+
+  <link>https://www.phy20.com/ep01/</link>
+  <guid>https://www.phy20.com/ep01/</guid>
+
   <pubDate>Sun, 14 Dec 2025 00:00:00 +0330</pubDate>
+
   <description><![CDATA[
     <div style="direction: rtl; text-align: right; line-height: 1.6;">
-      <p>در این اپیزود ساختمان مغز انسان بررسی شده است. هدف این بوده است که بدانیم یادگیری از طریق مغز چگونه شروع می شود و چه بخش هایی درگیر هستند.</p>
+      <p>
+        در این اپیزود ساختمان مغز انسان بررسی می‌شود. هدف این گفتار آن است که
+        بفهمیم یادگیری از کجا در مغز آغاز می‌شود و چه بخش‌هایی از مغز در فرآیند
+        یادگیری نقش کلیدی دارند.
+      </p>
     </div>
   ]]></description>
-  <enclosure 
-    url="UPLOAD_URL/MAGHZ1.mp3" 
-    length="17325883" 
+
+  <enclosure
+    url="https://www.phy20.com/wp-content/uploads/2025/12/MAGHZ1.mp3"
+    length="17325883"
     type="audio/mpeg"/>
+
   <itunes:duration>00:17:35</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/maghz.jpg"/>
 </item>
 
-     <!-- 2 اپیزود -->
+
+    
      <!-- اپیزود 2 -->
 <item>
-  <title>اپیزود 2: سیستم سیناپس و یادگیری</title>
-  <itunes:title>اپیزود 2: سیستم سیناپس و یادگیری</itunes:title>
-  <link>https://www.phy20.com/wp-content/uploads/2025/12/maghz2.mp3</link>
-  <guid>https://www.phy20.com/wp-content/uploads/2025/12/maghz2.mp3</guid>
+  <title>اپیزود ۲: سیستم سیناپس و یادگیری</title>
+  <itunes:title>اپیزود ۲: سیستم سیناپس و یادگیری</itunes:title>
+
+  <link>https://www.phy20.com/ep02/</link>
+  <guid>https://www.phy20.com/ep02/</guid>
+
   <pubDate>Sun, 14 Dec 2025 00:00:00 +0330</pubDate>
+
   <description><![CDATA[
     <div style="direction: rtl; text-align: right; line-height: 1.6;">
-      <p>در این اپیزود به بررسی ساختمان سیناپس و دندریت و طرز عملکرد یادگیری پرداخته ایم.</p>
+      <p>
+        در این اپیزود به بررسی ساختمان سیناپس‌ها و دندریت‌ها می‌پردازیم و
+        توضیح می‌دهیم یادگیری در سطح سلول‌های عصبی چگونه شکل می‌گیرد
+        و چه سازوکاری در تقویت یا تضعیف مسیرهای عصبی نقش دارد.
+      </p>
     </div>
   ]]></description>
-  <enclosure 
-    url="UPLOAD_URL/maghz2.mp3" 
-    length="12671850" 
+
+  <enclosure
+    url="https://www.phy20.com/wp-content/uploads/2025/12/maghz2.mp3"
+    length="12671850"
     type="audio/mpeg"/>
+
   <itunes:duration>00:14:34</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/maghz.jpg"/>
 </item>
 
-     <!--3 اپیزود -->
+
+   
      <!-- اپیزود 3 -->
 <item>
-  <title>اپیزود 3: مواد شیمیایی موثر در عملکرد مغز انسان و یادگیری</title>
-  <itunes:title>اپیزود 3: مواد شیمیایی موثر در عملکرد مغز انسان و یادگیری</itunes:title>
-  <link>https://www.phy20.com/wp-content/uploads/2025/12/maghz3.mp3</link>
-  <guid>https://www.phy20.com/wp-content/uploads/2025/12/maghz3.mp3</guid>
+  <title>اپیزود ۳: مواد شیمیایی مؤثر در عملکرد مغز انسان و یادگیری</title>
+  <itunes:title>اپیزود ۳: مواد شیمیایی مؤثر در عملکرد مغز انسان و یادگیری</itunes:title>
+
+  <link>https://www.phy20.com/ep03/</link>
+  <guid>https://www.phy20.com/ep03/</guid>
+
   <pubDate>Sun, 14 Dec 2025 00:00:00 +0330</pubDate>
+
   <description><![CDATA[
     <div style="direction: rtl; text-align: right; line-height: 1.6;">
-      <p>در این قسمت به بررسی مواد شیمیایی موثر در عملکرد مغز پرداخته ایم. لازم به ذکر است که این اطلاعات فقط جنبه آشنایی دارد و قابل تجویز نیست.حتما با پزشک خود گفتگو کنید.</p>
+      <p>
+        در این اپیزود به بررسی مواد شیمیایی مؤثر در عملکرد مغز و نقش آن‌ها
+        در فرآیند یادگیری می‌پردازیم. تأکید می‌شود که مطالب مطرح‌شده
+        صرفاً جنبه آشنایی و آموزشی دارند و به‌هیچ‌وجه جنبه تجویزی ندارند.
+        در صورت نیاز، حتماً با پزشک یا متخصص مربوطه مشورت کنید.
+      </p>
     </div>
   ]]></description>
-  <enclosure 
-    url="UPLOAD_URL/maghz3.mp3" 
-    length="21840632" 
+
+  <enclosure
+    url="https://www.phy20.com/wp-content/uploads/2025/12/maghz3.mp3"
+    length="21840632"
     type="audio/mpeg"/>
+
   <itunes:duration>00:22:20</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/maghz.jpg"/>
 </item>
+
 
   <!-- اپیزود 13 -->
   <item>
@@ -449,6 +479,7 @@
 
 </channel>
 </rss>
+
 
 
 
