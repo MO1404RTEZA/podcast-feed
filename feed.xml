@@ -508,11 +508,44 @@
        <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
 
+      <item>
+    <title>الگوهای مهارتی برشناختی | بازاندیشی</title>
+    <link>https://www.phy20.com/episode15/</link>
+    <guid isPermaLink="false">EP3-15</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:08 GMT</pubDate>
+    <description><![CDATA[
+فیزیک و ساینس مدام پرسشگری می‌کنند و با کمک فلسفه و تحلیل وضع موجود جواب‌ها را نقد و بررسی می‌کنند تا بدانند تا چه اندازه می‌توان به جواب‌ها اعتماد کرد.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD14-15.mp3" length="29116832" type="audio/mpeg"/>
+    <itunes:duration>00:27:33</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+           <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
+  <item>
+    <title>الگوهای مهارتی برشناختی | تبیین</title>
+    <link>https://www.phy20.com/episode16/</link>
+    <guid isPermaLink="false">EP3-16</guid>
+    <pubDate>Fri, 21 Nov 2025 11:48:08 GMT</pubDate>
+    <description><![CDATA[
+توانایی تبیین یعنی توانایی توصیف رابطه علت و معلولی و توضیح آن با شواهد موجود و تحلیل منطقی.
+]]></description>
+    <enclosure url="https://www.phy20.com/wp-content/uploads/2025/11/EPIZOD16.mp3" length="16799584" type="audio/mpeg"/>
+    <itunes:duration>00:15:40</itunes:duration>
+    <itunes:season>3</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+       <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
+  </item>
+
 
 
 
 </channel>
 </rss>
+
 
 
 
