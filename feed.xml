@@ -540,11 +540,34 @@
        <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
 
+     <!-- اپیزود فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن) -->
+<item>
+  <title>اپیزود فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن): الگوریتم های ذهنی فیزیکدانان جهان |Mental Algorithms of the World’s Physicists</title>
+  <itunes:title>اپیزود فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن): الگوریتم های ذهنی فیزیکدانان جهان |Mental Algorithms of the World’s Physicists</itunes:title>
+  <link>https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD1.mp3</link>
+  <guid>https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD1.mp3</guid>
+  <pubDate>Fri, 19 Dec 2025 21:10:29 +0330</pubDate>
+  <description><![CDATA[
+    <div style="direction: rtl; text-align: right; line-height: 1.6;">
+      <p>این الگوریتم که نخستین اپیزود از فصل 4 رادیو آموزش فیزیک است مفهوم قلب نظریه کوپرنیک را در بر دارد. براساس این الگوریتم ما خاص نیستیم و جزیی از سیستم طبیعت هستیم.</p>
+    </div>
+  ]]></description>
+  <enclosure
+    url="UPLOAD_URL/FASL4-EPIZOD1.mp3"
+    length="19702417"
+    type="audio/mpeg"/>
+  <itunes:duration>00:13:25</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/podcast/season1-cover.jpg"/>
+     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg" />
+</item>
+
 
 
 
 </channel>
 </rss>
+
 
 
 
