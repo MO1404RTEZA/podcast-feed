@@ -581,12 +581,33 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
+     <!-- اپیزود فصل 4 |اپیزود 3 -->
+<item>
+  <title>اپیزود فصل 4 |اپیزود 3: Non-Specialness Algorithm </title>
+  <itunes:title>اپیزود فصل 4 |اپیزود 3: Non-Specialness Algorithm </itunes:title>
+  <link>https://www.phy20.com/wp-content/uploads/2025/12/english1.mp3</link>
+  <guid isPermaLink="false">EPفصل 4 |اپیزود 3</guid>
+  <pubDate>Sat, 20 Dec 2025 06:40:26 GMT</pubDate>
+  <description><![CDATA[
+    <div style="direction: rtl; text-align: right; line-height: 1.6;">
+      <p>Welcome to Season 4 of Radio Physics Education. In this season, we explore the Non-Specialness Algorithm – a way to understand the history of science not as a story of individual geniuses, but as a collective journey of discovery.</p>
+    </div>
+  ]]></description>
+  <enclosure
+    url="UPLOAD_URL/english1.mp3"
+    length="5833670"
+    type="audio/mpeg"/>
+  <itunes:duration>00:03:50</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
+</item>
 
 
 
 
 </channel>
 </rss>
+
 
 
 
