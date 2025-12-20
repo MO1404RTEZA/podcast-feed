@@ -1,35 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>رادیو آموزش فیزیک | اپیزود ۱۶</title>
-    <link>https://www.phy20.com/ep16/</link>
-    <language>fa-ir</language>
-    <description>پادکستی برای آموزش فیزیک از فهم صفر تا شهود</description>
-    <itunes:author>رادیو آموزش فیزیک</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
-    <itunes:summary>در این فایل ملاک‌هایی برای ارزشیابی و تقویت دستگاه فلسفی ذهن یادگیرندگان فیزیک داده می‌شود.</itunes:summary>
-    <managingEditor>mohammadivand2009@gmail.com (Morteza Mohammadivand)</managingEditor>
-    <itunes:owner>
-      <itunes:name>Morteza Mohammadivand</itunes:name>
-      <itunes:email>mohammadivand2009@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
-    <item>
-      <title>اپیزود ۱۶: ارزشیابی یک دستگاه فلسفی ذهنی است</title>
-      <link>https://www.phy20.com/ep16/</link>
-      <guid>https://www.phy20.com/ep16/</guid>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0430</pubDate>
-      <description>
-        <![CDATA[
-          در این فایل ملاک‌هایی برای ارزشیابی و تقویت دستگاه فلسفی ذهن یادگیرندگان فیزیک داده می‌شود.
-        ]]>
-      </description>
-      <enclosure url="https://www.phy20.com/wp-content/uploads/2025/03/arzeshyabi-df.mp3" length="12345678" type="audio/mpeg"/>
-      <itunes:duration>00:18:50</itunes:duration>
-      <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
-    </item>
-  </channel>
-</rss>
+<!-- Season 4 | Episode 1 -->
+<item>
+  <title>Season 4 | Episode 1: Mental Algorithms of Physicists | The Copernican Mental Algorithm</title>
+  <itunes:title>Season 4 | Episode 1: Mental Algorithms of Physicists | The Copernican Mental Algorithm</itunes:title>
+
+  <link>https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHASL.mp3</link>
+  <guid isPermaLink="false">Season4-Episode1-English</guid>
+  <pubDate>Sat, 20 Dec 2025 11:43:50 GMT</pubDate>
+
+  <description><![CDATA[
+    <div style="direction: ltr; text-align: left; line-height: 1.6;">
+      <p>
+        In this short episode, we explore the importance of the
+        <strong>Non-Specialness Mental Algorithm</strong>,
+        also known as the <strong>Copernican Mental Algorithm</strong>.
+      </p>
+      <p>
+        This idea challenges the assumption that humans occupy a privileged or special position in the universe.
+        Instead, it reveals how scientific thinking gradually removed humanity from the center of existence,
+        shaping the modern scientific worldview.
+      </p>
+    </div>
+  ]]></description>
+
+  <enclosure
+    url="https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHASL.mp3"
+    length="3908373"
+    type="audio/mpeg"/>
+
+  <itunes:duration>00:02:46</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
+</item>
