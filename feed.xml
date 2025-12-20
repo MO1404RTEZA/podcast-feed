@@ -601,12 +601,33 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
+     <!-- اپیزود فصل 4 |اپیزود 4 -->
+<item>
+  <title>اپیزود فصل 4 |اپیزود 4: شرح مفصل الگوریتم کوپرنیک </title>
+  <itunes:title>اپیزود فصل 4 |اپیزود 4: شرح مفصل الگوریتم کوپرنیک </itunes:title>
+  <link>https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPZ1.mp3</link>
+  <guid isPermaLink="false">EPفصل 4 |اپیزود 4</guid>
+  <pubDate>Sat, 20 Dec 2025 07:05:35 GMT</pubDate>
+  <description><![CDATA[
+    <div style="direction: rtl; text-align: right; line-height: 1.6;">
+      <p>در این اپیزود می توانید شرح مفصلی از الگوریتم عدم ویژگی خاص کوپرنیک را بشنوید.</p>
+    </div>
+  ]]></description>
+  <enclosure
+    url="UPLOAD_URL/FASL4-EPZ1.mp3"
+    length="27380988"
+    type="audio/mpeg"/>
+  <itunes:duration>00:25:52</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
+</item>
 
 
 
 
 </channel>
 </rss>
+
 
 
 
