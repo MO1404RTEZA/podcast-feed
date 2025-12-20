@@ -561,11 +561,33 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
 
+     <!-- اپیزود فصل 4 | اپیزود2 -->
+<item>
+  <title>اپیزود فصل 4 | اپیزود2: مثال های کاربردی الگوریتم کوپرنیک (عدم ویژگی خاص )</title>
+  <itunes:title>اپیزود فصل 4 | اپیزود2: مثال های کاربردی الگوریتم کوپرنیک (عدم ویژگی خاص )</itunes:title>
+  <link>https://www.phy20.com/wp-content/uploads/2025/12/MESAL1.mp3</link>
+  <guid isPermaLink="false">EPفصل 4 | اپیزود2</guid>
+  <pubDate>Sat, 20 Dec 2025 06:23:49 GMT</pubDate>
+  <description><![CDATA[
+    <div style="direction: rtl; text-align: right; line-height: 1.6;">
+      <p>در این اپیزود مثال های کاربردی متنوعی از الگوریتم کوپرنیک (عدم ویژگی خاص ) را می شنوید.</p>
+    </div>
+  ]]></description>
+  <enclosure
+    url="UPLOAD_URL/MESAL1.mp3"
+    length="17894883"
+    type="audio/mpeg"/>
+  <itunes:duration>00:07:48</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
+</item>
+
 
 
 
 </channel>
 </rss>
+
 
 
 
