@@ -542,8 +542,8 @@
 
      <!-- اپیزود فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن) -->
 <item>
-  <title>اپیزود فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن): الگوریتم های ذهنی فیزیکدانان جهان | Mental Algorithms of the World’s Physicists</title>
-  <itunes:title>اپیزود فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن): الگوریتم های ذهنی فیزیکدانان جهان | Mental Algorithms of the World’s Physicists</itunes:title>
+  <title> فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن): الگوریتم های ذهنی فیزیکدانان جهان | Mental Algorithms of the World’s Physicists</title>
+  <itunes:title> فصل 4 | اپیزود 1: الگوریتم کوپرنیک (عدم ویژگی خاص بودن): الگوریتم های ذهنی فیزیکدانان جهان | Mental Algorithms of the World’s Physicists</itunes:title>
   <link>https://www.phy20.com/episode-fasl4-1/</link>
   <guid isPermaLink="false">FASL4-EP1</guid>
   <pubDate>Fri, 20 Dec 2025 17:40:29 GMT</pubDate>
@@ -564,8 +564,8 @@
    
 <!-- اپیزود فصل 4 | اپیزود 2 -->
 <item>
-  <title>اپیزود فصل 4 | اپیزود 2: مثال‌های کاربردی الگوریتم کوپرنیک</title>
-  <itunes:title>اپیزود فصل 4 | اپیزود 2: مثال‌های کاربردی الگوریتم کوپرنیک</itunes:title>
+  <title> فصل 4 | اپیزود 2: مثال‌های کاربردی الگوریتم کوپرنیک</title>
+  <itunes:title> فصل 4 | اپیزود 2: مثال‌های کاربردی الگوریتم کوپرنیک</itunes:title>
 
   <link>https://www.phy20.com/episode-fasl4-2/</link>
   <guid isPermaLink="false">FASL4-EP2</guid>
@@ -591,11 +591,43 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
 
+    
+<!-- اپیزود فصل 4 | اپیزود 3 -->
+<item>
+  <title> فصل 4 | اپیزود 3: الگوریتم‌های ذهنی فیزیکدانان جهان (براهه–کپلر)</title>
+  <itunes:title> فصل 4 | اپیزود 3: الگوریتم‌های ذهنی فیزیکدانان جهان (براهه–کپلر)</itunes:title>
+
+  <link>https://www.phy20.com/episode-fasl4-3/</link>
+  <guid isPermaLink="false">FASL4-EP3</guid>
+  <pubDate>Mon, 22 Dec 2025 09:11:04 GMT</pubDate>
+
+  <description><![CDATA[
+    <div style="direction: rtl; text-align: right; line-height: 1.6;">
+      <p>
+        در این اپیزود، با کمک هوش مصنوعی به زندگی و کار
+        تیکو براهه و یوهانس کپلر می‌پردازیم و نشان می‌دهیم
+        چگونه الگوریتم «تعمیم مشاهدهٔ دقیق» به ما اجازه می‌دهد
+        رفتار سیستم‌های مشابه را به‌درستی درک و پیش‌بینی کنیم.
+      </p>
+    </div>
+  ]]></description>
+
+  <enclosure
+    url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD2.mp3"
+    length="42004588"
+    type="audio/mpeg"/>
+
+  <itunes:duration>00:28:55</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
+</item>
+
 
 
 
 </channel>
 </rss>
+
 
 
 
