@@ -540,25 +540,18 @@
        <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg" />
   </item>
 
-   <item>
+  <item>
   <title>الگوریتم کوپرنیک (عدم ویژگی خاص بودن)</title>
-
   <link>https://www.phy20.com/episode-fasl4-1/</link>
   <guid isPermaLink="false">EP4-1</guid>
   <pubDate>Fri, 20 Dec 2025 17:40:29 GMT</pubDate>
-
   <description><![CDATA[
 این اپیزود نخستین قسمت از فصل چهارم رادیو آموزش فیزیک است.
 در اینجا با الگوریتم کوپرنیک یا «عدم ویژگی خاص بودن» آشنا می‌شویم؛
 ایده‌ای بنیادی که می‌گوید ما مرکز یا موردِ ویژهٔ طبیعت نیستیم،
 بلکه جزئی از یک سیستم بزرگ‌تر هستیم.
 ]]></description>
-
-  <enclosure
-    url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD1.mp3"
-    length="19702417"
-    type="audio/mpeg"/>
-
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD1.mp3" length="19702417" type="audio/mpeg"/>
   <itunes:duration>00:13:25</itunes:duration>
   <itunes:season>4</itunes:season>
   <itunes:episode>1</itunes:episode>
@@ -566,25 +559,18 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
 
-     <item>
+<item>
   <title>مثال‌های کاربردی الگوریتم کوپرنیک</title>
-
   <link>https://www.phy20.com/episode-fasl4-2/</link>
   <guid isPermaLink="false">EP4-2</guid>
   <pubDate>Fri, 20 Dec 2025 19:23:49 GMT</pubDate>
-
   <description><![CDATA[
 در این اپیزود با مثال‌های ملموس و روزمره،
 الگوریتم کوپرنیک (عدم ویژگی خاص بودن) را
 در موقعیت‌های مختلف علمی و انسانی بررسی می‌کنیم
 و می‌بینیم این ایده چگونه زاویه نگاه ما را تغییر می‌دهد.
 ]]></description>
-
-  <enclosure
-    url="https://www.phy20.com/wp-content/uploads/2025/12/MESAL1.mp3"
-    length="17894883"
-    type="audio/mpeg"/>
-
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/12/MESAL1.mp3" length="17894883" type="audio/mpeg"/>
   <itunes:duration>00:07:48</itunes:duration>
   <itunes:season>4</itunes:season>
   <itunes:episode>2</itunes:episode>
@@ -592,25 +578,17 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
 
-
-     <item>
+<item>
   <title>الگوریتم‌های ذهنی فیزیکدانان جهان | براهه–کپلر</title>
-
   <link>https://www.phy20.com/episode-fasl4-3/</link>
   <guid isPermaLink="false">EP4-3</guid>
   <pubDate>Mon, 22 Dec 2025 09:11:04 GMT</pubDate>
-
   <description><![CDATA[
 در این اپیزود به زندگی و کار تیکو براهه و یوهانس کپلر می‌پردازیم
 و نشان می‌دهیم چگونه «تعمیم مشاهدهٔ دقیق» به‌عنوان
 یک الگوریتم ذهنی، امکان کشف قوانین پایدار در طبیعت را فراهم می‌کند.
 ]]></description>
-
-  <enclosure
-    url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD2.mp3"
-    length="42004588"
-    type="audio/mpeg"/>
-
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD2.mp3" length="42004588" type="audio/mpeg"/>
   <itunes:duration>00:28:55</itunes:duration>
   <itunes:season>4</itunes:season>
   <itunes:episode>3</itunes:episode>
@@ -618,42 +596,31 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
 
-     <item>
-  <title>الگوریتم گالیله(بازاندیشی موقعیت ناظر)</title>
-  <link>https://www.phy20.com/episode-fasl4-3/</link>
+<item>
+  <title>الگوریتم گالیله (بازاندیشی موقعیت ناظر)</title>
+  <link>https://www.phy20.com/episode-fasl4-4/</link>
   <guid isPermaLink="false">EP4-4</guid>
   <pubDate>Mon, 22 Dec 2025 12:01:09 GMT</pubDate>
-
   <description><![CDATA[
 در این اپیزود که با کمک هوش مصنوعی آنالیز شده است متوجه می شویم که گالیله به آزمایش کردن از موقعیت ناظر خیلی اعتقاد داشته است و آزمایش های زیادی را برای شناسایی این مساله انجام می دهد. تبدیلات گالیله در فیزیک برای تحلیل حرکت نسبی اجسام و پدیده ها به کار می رود.
 ]]></description>
-
-  <enclosure
-    url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD3.mp3"
-    length="27349157"
-    type="audio/mpeg"/>
-
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD3.mp3" length="27349157" type="audio/mpeg"/>
   <itunes:duration>00:17:44</itunes:duration>
   <itunes:season>4</itunes:season>
   <itunes:episode>4</itunes:episode>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/MAP.jpg"/>
 </item>
-     <item>
-  <title> الگوریتم گالیله (بازاندیشی موقعیت ناظر)</title>
-  <link>https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD4.mp3</link>
-  <guid isPermaLink="false">EP4-6</guid>
-  <pubDate>Thu, 25 Dec 2025 17:14:22 GMT</pubDate>
 
+<item>
+  <title>الگوریتم گالیله (بازاندیشی موقعیت ناظر) - بخش دوم</title>
+  <link>https://www.phy20.com/episode-fasl4-5/</link>
+  <guid isPermaLink="false">EP4-5</guid>
+  <pubDate>Thu, 25 Dec 2025 17:14:22 GMT</pubDate>
   <description><![CDATA[
 در الگوریتم بازاندیشی موقعیت ناظر به طور مرتب دو دستگاه چارچوب مشاهده داریم که غالبا نوع ساکن آن خود ماییم و دیگری در حال حرکت است و پدیده را مشاهده و روایت می کنیم. 
 ]]></description>
-
-  <enclosure
-    url="UPLOAD_URL/FASL4-EPIZOD4.mp3"
-    length="24327360"
-    type="audio/mpeg"/>
-
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD4.mp3" length="24327360" type="audio/mpeg"/>
   <itunes:duration>00:16:25</itunes:duration>
   <itunes:season>4</itunes:season>
   <itunes:episode>5</itunes:episode>
@@ -661,26 +628,20 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/11/cover.jpg"/>
 </item>
 
-     <item>
+<item>
   <title>الگوریتم حذف اضافات (میکل آنژ- اینشتین- فاینمن)</title>
-  <link>https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD5.mp3</link>
+  <link>https://www.phy20.com/episode-fasl4-6/</link>
   <guid isPermaLink="false">EP4-6</guid>
   <pubDate>Fri, 26 Dec 2025 13:29:22 GMT</pubDate>
-
   <description><![CDATA[
 علمِ خوب، علمی نیست که پیچیده باشد؛
 علمی است که بعد از حذف همهٔ پیچیدگی‌ها
 هنوز چیزی برای گفتن داشته باشد —
-حتی برای مادربزرگ.اگر در یک فاجعه، تمام دانش علمی بشر از بین برود و فقط یک جمله به نسل بعدی برسد،
+حتی برای مادربزرگ. اگر در یک فاجعه، تمام دانش علمی بشر از بین برود و فقط یک جمله به نسل بعدی برسد،
 آن جمله این است:
 تمام چیزها از اتم‌ها ساخته شده‌اند؛ ذرات کوچکی که دائماً در حرکت‌اند، به یکدیگر جذب می‌شوند و در فاصله‌های کوتاه همدیگر را می‌رانند.
 ]]></description>
-
-  <enclosure
-    url="UPLOAD_URL/FASL4-EPIZOD5.mp3"
-    length="34107806"
-    type="audio/mpeg"/>
-
+  <enclosure url="https://www.phy20.com/wp-content/uploads/2025/12/FASL4-EPIZOD5.mp3" length="34107806" type="audio/mpeg"/>
   <itunes:duration>00:22:25</itunes:duration>
   <itunes:season>4</itunes:season>
   <itunes:episode>6</itunes:episode>
@@ -694,6 +655,7 @@
 
 </channel>
 </rss>
+
 
 
 
