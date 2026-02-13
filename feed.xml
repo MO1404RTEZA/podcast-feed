@@ -1026,11 +1026,34 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2026/02/econocover.png"/>
 </item>
 
+     <item>
+  <title>الگوریتم ایده تا ثبت پتنت </title>
+  <link>https://www.phy20.com/wp-content/uploads/2026/02/Patent.mp3</link>
+  <guid isPermaLink="false">EP6-2</guid>
+  <pubDate>Fri, 13 Feb 2026 11:58:10 GMT</pubDate>
+
+  <description><![CDATA[
+در فصل ششم به بررسی الگوریتم های تجاری سازی آموزش فیزیک می پردازیم.ایده تا ثبت پتنت مسیری ساختاریافته است. ابتدا مسئله و راه‌حل فنی دقیق تعریف می‌شود. سپس جستجوی پیشینه انجام می‌گیرد تا نوآوری و گام ابتکاری مشخص شود. بعد شرح فنی و ادعاها تنظیم می‌شود. با ثبت اظهارنامه در اداره ثبت اختراع، فرایند بررسی آغاز شده و در صورت تأیید، حق انحصاری قانونی اعطا می‌شود.
+]]></description>
+
+  <enclosure
+    url="https://www.phy20.com/wp-content/uploads/2025/12/Patent.mp3"
+    length="36113178"
+    type="audio/mpeg"/>
+
+  <itunes:duration>00:36:21</itunes:duration>
+  <itunes:season>6</itunes:season>
+  <itunes:episode>2</itunes:episode>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2026/02/econocover.png"/>
+</item>
+
 
 
 
 </channel>
 </rss>
+
 
 
 
