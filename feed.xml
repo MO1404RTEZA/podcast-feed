@@ -1135,11 +1135,34 @@
   <itunes:image href="https://www.phy20.com/wp-content/uploads/2026/02/econocover.png"/>
 </item>
 
+     <item>
+  <title>الگوریتم های اقتصادی آموزش فیزیک | اقتصادآموزش فیزیک بر مبنای تحلیل داده/STEM/سیستم های پیچیده</title>
+  <link>https://www.phy20.com/wp-content/uploads/2026/02/Mehware1.mp3</link>
+  <guid isPermaLink="false">EP6-7</guid>
+  <pubDate>Tue, 17 Feb 2026 06:16:28 GMT</pubDate>
+
+  <description><![CDATA[
+پادکست الگوریتم‌های اقتصادی آموزش فیزیک به بررسی نحوه به‌کارگیری تحلیل داده، روش‌های STEM و مدل‌سازی سیستم‌های پیچیده در آموزش فیزیک می‌پردازد. هدف آن ارتقای کارایی منابع آموزشی و اقتصادی کردن فرایند یادگیری است، به‌طوری که تصمیمات آموزشی مبتنی بر شواهد و الگوریتم‌های بهینه‌سازی شود و یادگیری عمیق و هدفمند رخ دهد.
+]]></description>
+
+  <enclosure
+    url="https://www.phy20.com/wp-content/uploads/2025/12/Mehware1.mp3"
+    length="47365912"
+    type="audio/mpeg"/>
+
+  <itunes:duration>00:46:50</itunes:duration>
+  <itunes:season>6</itunes:season>
+  <itunes:episode>7</itunes:episode>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2026/02/econocover.png"/>
+</item>
+
 
 
 
 </channel>
 </rss>
+
 
 
 
